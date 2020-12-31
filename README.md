@@ -22,10 +22,10 @@ GGHF
 
 ### Array/String
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
-* [(string)add-binary](https://leetcode.com/problems/add-binary/) [unsolved](https://github.com/brdgcn/Leet2Success/issues/2)
-* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [unsolved](https://github.com/brdgcn/Leet2Success/issues/3)
+* [(string)add-binary](https://leetcode.com/problems/add-binary/) [(unsolved)](https://github.com/brdgcn/Leet2Success/issues/2)
+* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(unsolved)](https://github.com/brdgcn/Leet2Success/issues/3)
 * [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) 
-* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) [unsolved](
+* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
 * [decode-string](https://leetcode.com/problems/decode-string/) 
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  
