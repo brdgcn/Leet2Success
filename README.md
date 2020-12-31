@@ -21,13 +21,13 @@ GGHF
 * [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
 * [design-a-stack-with-increment-operation](leetcode.com/problems/design-a-stack-with-increment-operation)
 * [decode-string](https://leetcode.com/problems/decode-string/)
-* [ Largest Rectangle in Histogram](largestRectangleArea https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
+* [Largest Rectangle in Histogram](largestRectangleArea https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
 * [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
 * [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 * [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
 
-###LinkedList
+### LinkedList
 * [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) 
 * [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
