@@ -5,9 +5,12 @@ disclaimer: this list is based on [91 days of leetcode (private)](https://github
 
 *A leetcode a day, keeps unemployment/unpromotionable away*
 
-The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we follow the notes, but also understand the thought process as we see the problem, and be able to solve again with little hints. Keep in mind as we read through our and other people's solutions online: *following is not understanding* we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. 
+The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we follow the notes, but also understand the thought process as we see the problem, and be able to solve again with little hints. 
 
-All solutions will be in issues using 
+Keep in mind as we read through our and other people's solutions online: *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. 
+
+All solutions will be posted in issues using [topic]problem. To keep the issues clean **please only post one problem per issue ** so that we can use the following index to find each solution quickly. If you are not sure if you should start a new issue please ask me.
+
 
 *This is the way*
 
