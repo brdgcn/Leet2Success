@@ -18,7 +18,8 @@ My coach told me when she was 12 and beginning to learn programming, they didn't
 
 GGHF
 
-
+# Index
+(First link goes to leetcode.com) (Second link goes to issue page for solution)
 
 ### Array/String
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
