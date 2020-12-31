@@ -41,7 +41,7 @@ GGHF
 
 ### Tree
 * [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) 
-* [same-tree](leetcode.com/problems/same-tree) 
+* [same-tree](https://leetcode.com/problems/same-tree/) 
 * [sum-root-to-leaf-numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers) 
 * [find-bottom-left-tree-value](https://leetcode.com/problems/find-bottom-left-tree-value/) 
 * [vertical-order-traversal-of-a-binary-tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree/) 
