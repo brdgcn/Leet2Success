@@ -7,6 +7,8 @@ disclaimer: this list is based on [91 days of leetcode (private)](https://github
 
 The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we follow the notes, but also understand the thought process as we see the problem, and be able to solve again with little hints. Keep in mind as we read through our and other people's solutions online: *following is not understanding* we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. 
 
+All solutions will be in issues using 
+
 *This is the way*
 
 My coach told me when she was 12 and beginning to learn programming, they didn't have a computer in classroom. So she did everything on paper and visualize every step of the process. Be able to do that and solve 200 leetcode problems is my goal for 2021. 
@@ -16,7 +18,7 @@ GGHF
 
 
 ### Array
-* [plus-one](https://leetcode.com/problems/plus-one/)
+* [plus-one](https://leetcode.com/problems/plus-one/)[Solution](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 * [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
