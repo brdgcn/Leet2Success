@@ -20,21 +20,21 @@ GGHF
 
 
 
-### Array
-* [plus-one](https://leetcode.com/problems/plus-one/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
-* [add-binary](https://leetcode.com/problems/add-binary/)
-* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/)
-* [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
-* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)
-* [decode-string](https://leetcode.com/problems/decode-string/)
-* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
-* [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
-* [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-* [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+### Array/String
+* [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
+* [(string)add-binary](https://leetcode.com/problems/add-binary/) [unsolved](https://github.com/brdgcn/Leet2Success/issues/2)
+* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [unsolved](
+* [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) [unsolved](
+* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) [unsolved](
+* [decode-string](https://leetcode.com/problems/decode-string/) [unsolved](
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) [unsolved](
+* [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) [unsolved](
+* [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/) [unsolved](
+* [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/) [unsolved](
+* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) [unsolved](
 
 ### LinkedList
-* [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) 
+* [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) [unsolved](
 * [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
 * [rotate-list](https://leetcode.com/problems/rotate-list/) 
