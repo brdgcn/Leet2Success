@@ -20,7 +20,7 @@ GGHF
 * [add-binary](https://leetcode.com/problems/add-binary/)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/)
 * [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/)
-* [design-a-stack-with-increment-operation](leetcode.com/problems/design-a-stack-with-increment-operation)
+* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)
 * [decode-string](https://leetcode.com/problems/decode-string/)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)
