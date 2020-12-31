@@ -1,15 +1,15 @@
 # Leet2Success
-Leetcode problems sorted by topics
+Leetcode problems sorted by topics.
 
-disclaimer: this list is based on [91 days of leetcode (private)](https://github.com/leetcode-pp/91alg-2) beginner level plus some of other problems assigned by my coach.
+Disclaimer: this list is based on [91 days of leetcode (private)](https://github.com/leetcode-pp/91alg-2) beginner level plus some of other leetcode problems assigned by my coach.
 
 *A leetcode a day, keeps unemployment/unpromotionable away*
 
-The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we follow the notes, but also understand the thought process as we see the problem, and be able to solve again with little hints. 
+The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we still follow the notes, but also understand the thought process as we see the problem again, therefore be able to solve with few hints. 
 
-Keep in mind as we read through our and other people's solutions online: *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. 
+Keep in mind as we read through our's and other people's solutions online that *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. As time goes by we will gain deeper understanding of data structures and algorithms.
 
-All solutions will be posted in issues using [topic]problem. To keep the issues clean **please only post one problem per issue ** so that we can use the following index to find each solution quickly. If you are not sure if you should start a new issue please ask me.
+All solutions will be posted in issues using [topic]LeetcodeProblemName. To keep the issues clean **please only post one problem per issue** so that we can use the following index to find each solution quickly. If you are not sure if you should start a new issue please ask me.
 
 
 *This is the way*
