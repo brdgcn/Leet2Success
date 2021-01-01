@@ -21,16 +21,17 @@ GLHF
 # Index
 (First link goes to leetcode.com) (Second link goes to issue page for solution)
 
-### Array/String
+### Array/String/Stack
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/2)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
-* [decode-string](https://leetcode.com/problems/decode-string/) 
-* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  
-* [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  
 * [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  
-* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)  
+* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
+* [decode-string](https://leetcode.com/problems/decode-string/) 
+* Design [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)  
+* Design [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
 
 ### LinkedList
 * [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) 
@@ -68,5 +69,4 @@ GLHF
 * [grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 * [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) 
 
-### Stack
-* Design [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
+
