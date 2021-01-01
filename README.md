@@ -24,7 +24,7 @@ GLHF
 ### Array/String
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/2)
-* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(unsolved)](https://github.com/brdgcn/Leet2Success/issues/3)
+* [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
 * [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) 
 * [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
 * [decode-string](https://leetcode.com/problems/decode-string/) 
