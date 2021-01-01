@@ -9,7 +9,7 @@ The goal is to do at least one problem a day, write down pseudocode/cliff notes/
 
 Keep in mind as we read through our's and other people's solutions online that *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. As time goes by we will gain deeper understanding of data structures and algorithms.
 
-I will start posting solutions in the issues section, starting with pseudocode first. All solutions will be posted using [topic]LeetcodeProblemName format. To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue or not please ask me.
+I will start posting solutions in the issues section, starting with pseudocode first. All issues should be posted using [topic]LeetcodeProblemName format. To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue or not please ask me.
 
 
 *This is the way*
