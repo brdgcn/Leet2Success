@@ -25,7 +25,6 @@ GLHF
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/2)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
-* [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) 
 * [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
 * [decode-string](https://leetcode.com/problems/decode-string/) 
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
@@ -35,7 +34,8 @@ GLHF
 * [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)  
 
 ### LinkedList
-* [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)  
+* [swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) 
+* [reverse-linked-list](https://leetcode.com/problems/reverse-linked-list/) 
 * [reverse-linked-list-ii](https://leetcode.com/problems/reverse-linked-list-ii/)
 * [add-two-numbers](https://leetcode.com/problems/add-two-numbers/)
 * [rotate-list](https://leetcode.com/problems/rotate-list/) 
