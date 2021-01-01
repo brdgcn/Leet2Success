@@ -25,7 +25,6 @@ GLHF
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/2)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
-* [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
 * [decode-string](https://leetcode.com/problems/decode-string/) 
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  
@@ -68,3 +67,6 @@ GLHF
 * [middle-of-the-linked-list](https://leetcode.com/problems/middle-of-the-linked-list/) 
 * [grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner/)
 * [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/) 
+
+### Stack
+* Design [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation) 
