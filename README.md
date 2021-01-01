@@ -7,14 +7,14 @@ Disclaimer: this list is based on [91 days of leetcode (private)](https://github
 
 The goal is to do at least one problem a day, write down pseudocode/cliff notes/cheatsheet as we begin to understand the problem and solution, so that when come back days later not only can we still follow the notes, but also understand the thought process as we see the problem again, therefore be able to solve with few hints. 
 
-Keep in mind as we read through our's and other people's solutions online that *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we solve the problem a particular way. As time goes by we will gain deeper understanding of data structures and algorithms.
+Keep in mind as we read through our's and other people's solutions online that: *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we approach/solve the problem a particular way. As time goes by we will gain deeper understanding of data structures and algorithms.
 
-I will start posting solutions in the issues section, starting with pseudocode first. All issues should be posted using [topic]LeetcodeProblemName format. To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue or not please ask me.
+I will start posting thought process, pseudocode and eventually code solutions per in the issues section, starting with  first. All issues should be posted using leetcodeProblemName (the function name in leetcode) and add appropriate labels (click on gear icon to the right of issue). To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue and or have any other questions/comments/complaints please ask me.
 
 
 *This is the way*
 
-My coach told me when she was 12 and beginning to learn programming, they didn't have a computer in classroom. So she did everything on paper and visualize every step of the process. Be able to do that and solve 200 leetcode problems is my goal for 2021. 
+My coach told me when she was 12 and just begin to learn programming, there were no computers in the classroom, so she did everything on paper and visualize every step of the process. Being able to do that and solve 200 leetcode problems in 2021 is my resolution for this year.
 
 GLHF
 
@@ -25,7 +25,7 @@ GLHF
 * [plus-one](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
 * [add-binary](https://leetcode.com/problems/add-binary/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/2)
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
-* [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)  
+* [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)[unresolved](https://github.com/brdgcn/Leet2Success/issues/4)  
 * [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)  
 * [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)  
