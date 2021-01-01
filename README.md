@@ -9,7 +9,7 @@ The goal is to do at least one problem a day, write down pseudocode/cliff notes/
 
 Keep in mind as we read through our's and other people's solutions online that: *following is not understanding*. we have to really think deep and hard, ask ourselves not just how but more importantly *why* we approach/solve the problem a particular way. As time goes by we will gain deeper understanding of data structures and algorithms.
 
-I will start posting thought process, pseudocode and eventually code solutions per in the issues section, starting with  first. All issues should be posted using leetcodeProblemName (the function name in leetcode) and add appropriate labels (click on gear icon to the right of issue). To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue and or have any other questions/comments/complaints please ask me.
+I will start posting thought process, pseudocode and eventually code solutions per in the issues section, starting with  first. I'd like to format the title using ##. problem title | leetcodeFunctionName, and add appropriate labels (click on gear icon to the right of issue). To keep the issues clean **please only open one issue per problem** so that we can use the following index to find them quickly, and we can all comment/append solutions after. If you are not sure whether you should start a new issue and or have any other questions/comments/complaints please ask me.
 
 
 *This is the way*
