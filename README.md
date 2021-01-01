@@ -29,7 +29,7 @@ GLHF
 * [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/5)  
 * [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/6)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/7) 
-* [decode-string](https://leetcode.com/problems/decode-string/) 
+* [decode-string](https://leetcode.com/problems/decode-string/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/10)   
 * Design [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/8)  
 * Design [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/9) 
 
