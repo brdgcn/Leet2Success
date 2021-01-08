@@ -27,7 +27,7 @@ GLHF
 * [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/3)
 * [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/4)  
 * [minimum-size-subarray-sum](https://leetcode.com/problems/minimum-size-subarray-sum/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/5)  
-* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/6)
+* [max-chunks-to-make-sorted-ii](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/6)
 * [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/7) 
 * [decode-string](https://leetcode.com/problems/decode-string/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/10)   
 * Design [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/8)  
