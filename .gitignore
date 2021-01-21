@@ -1,3 +1,4 @@
 structure.md
-
-*.pyc
+.idea
+venv
+.DS_store
