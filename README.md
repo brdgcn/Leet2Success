@@ -28,7 +28,7 @@ GLHF
 * [kidsWithCandies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/4)  
 * [minSubArrayLen](https://leetcode.com/problems/minimum-size-subarray-sum/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/5)  
 * [maxChunksToSorted](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/6)
-* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/7) 
+* [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)[(Solution)](https://github.com/brdgcn/Leet2Success/issues/7) 
 * [decode-string](https://leetcode.com/problems/decode-string/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/10)   
 * Design [implement-queue-using-stacks](https://leetcode.com/problems/implement-queue-using-stacks/)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/8)  
 * Design [design-a-stack-with-increment-operation](https://leetcode.com/problems/design-a-stack-with-increment-operation)[(unresolved)](https://github.com/brdgcn/Leet2Success/issues/9) 
