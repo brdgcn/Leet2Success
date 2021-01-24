@@ -20,6 +20,7 @@ GLHF
 
 # Index
 I will start posting solution.py and test_solution.py in the code section, links inside the index page:
+
 **(First link goes to leetcode.com) (Second link goes to the issue pages for pseudocode solution)**
 
 ### Array/String/Stack
