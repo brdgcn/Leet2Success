@@ -19,7 +19,8 @@ My coach told me when she was 12 and just begin to learn programming, there were
 GLHF
 
 # Index
-(First link goes to leetcode.com) (Second link goes to issue page for solution)
+I will start posting solution.py and test_solution.py in the code section, links inside the index page:
+**(First link goes to leetcode.com) (Second link goes to the issue pages for pseudocode solution)**
 
 ### Array/String/Stack
 * [plusOne](https://leetcode.com/problems/plus-one/) [(Solution)](https://github.com/brdgcn/Leet2Success/issues/1)
