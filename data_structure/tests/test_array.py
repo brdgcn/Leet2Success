@@ -1,5 +1,5 @@
 import unittest
-from data_structure.array import *
+from data_structure.array import PlusOne
 
 
 class TestPlusOne(unittest.TestCase):
