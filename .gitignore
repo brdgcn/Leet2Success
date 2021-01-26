@@ -2,3 +2,6 @@ structure.md
 .idea
 venv
 .DS_store
+
+# pytest cache
+__pycache__/
